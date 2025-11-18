@@ -70,13 +70,20 @@ I specialize in **Power BI, SQL, Python (pandas), and Excel**, and I enjoy conve
 
 ---
 
-### 🛍️ **Blinkit Sales Dashboard | Power BI**  
+### 🛍️ **Blinkit Sales analysis | Power BI**  
 - Analyzed **1.2M+ sales, 8.5K items**, average rating 3.9  
 - Identified top-performing categories contributing **40%+ of revenue**  
 - Found Tier-3 outlets generate **35% of total revenue**  
 - Delivered insights on outlet trends (2012–2020)
 
 ---
+### 📱   Mobile Sales Analysis Dashboard | Power BI, Excel    
+- Built an interactive Power BI dashboard to analyze mobile sales across cities, brands, and models.
+- Created KPIs for total sales (₹769M), quantity sold (19K units), and transaction patterns.
+- Identified top-performing models and brands, customer rating trends, and preferred payment methods.
+- Delivered insights for city-wise demand, monthly sales peaks, and inventory planning. 
+ 
+ ---
 
 ### 🤖 **ML Practice Projects | Python**  
 - **Car Price Prediction Model**  
