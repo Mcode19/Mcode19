@@ -26,7 +26,7 @@ I specialize in **Power BI, SQL, Python (pandas), and Excel**, and I enjoy conve
 
 ## 📄 Resume & Contact
 
-- 📄 **[View My Resume](YOUR_RESUME_LINK)**  
+- 📄 **[View My Resume](Maithili_Phulari_RESUME.pdf)**  
 - 📧 **Email:** maithiliphulari03@gmail.com  
 - 🔗 **LinkedIn:** [linkedin.com/in/maithiliphulari](https://www.linkedin.com/in/maithiliphulari)
 
