@@ -117,13 +117,11 @@ I specialize in **Power BI, SQL, Python (pandas), and Excel**, and I enjoy conve
 
 🎓 **B.Tech in Computer Science Engineering**  
 Sanjay Ghodawat University, Kolhapur  
-**CGPA: 7.6**
+**CGPA: 7.66**
 
 🏫 **HSC (Science)**  
 Bapuji Salunke Junior College, Sangli — **82%**
 
-🏫 **SSC**  
-Halkarni High School
 
 ---
 
